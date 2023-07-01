@@ -190,3 +190,4 @@ start_stop_button.place(x=800, y=880, anchor=tk.CENTER)
 
 # 进入主循环，等待用户操作
 root.mainloop()
+
